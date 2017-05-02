@@ -44,3 +44,4 @@ Projects/companies working on blockchain and identity (pull requests welcome):
  * [Master thesis](http://essay.utwente.nl/71274/) about self-sovereign identity using blockchain technology by D.S. Baars.
  * The [Fermat project](http://www.fermat.org/) is a community working on the [Internet of People](http://iopgo.com/), an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components.
  * [Civic](https://www.civic.com/) is a secure identity platform using a blockchain and biometrics on mobile devices, in order to provide multi-factor authentication without a username, password, third party authenticator, or physical hardware token.
+ * [WEF A Blueprint for Digital Identity](http://www3.weforum.org/docs/WEF_A_Blueprint_for_Digital_Identity.pdf) The Role of Financial Institutions in Building Digital Identity
